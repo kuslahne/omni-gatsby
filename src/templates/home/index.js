@@ -123,7 +123,7 @@ const Home = ({ location }) => {
             as="iframe"
             width="100%"
             height="auto"
-            src="https://www.youtube.com/embed/GuvAMcsoreI"
+            src="https://www.youtube.com/embed/yXpPugM53ns"
             frameborder="0"
             allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
             allowfullscreen
